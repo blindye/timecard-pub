@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/timecard-pub/static/js/main.780dea06.js",
+    "main.js": "/timecard-pub/static/js/main.8a2dad63.js",
     "index.html": "/timecard-pub/index.html",
-    "main.780dea06.js.map": "/timecard-pub/static/js/main.780dea06.js.map"
+    "main.8a2dad63.js.map": "/timecard-pub/static/js/main.8a2dad63.js.map"
   },
   "entrypoints": [
-    "static/js/main.780dea06.js"
+    "static/js/main.8a2dad63.js"
   ]
 }
