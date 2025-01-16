@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/timecard-pub/static/css/main.cb575408.css",
-    "main.js": "/timecard-pub/static/js/main.467ec330.js",
+    "main.js": "/timecard-pub/static/js/main.807675e1.js",
     "index.html": "/timecard-pub/index.html",
     "main.cb575408.css.map": "/timecard-pub/static/css/main.cb575408.css.map",
-    "main.467ec330.js.map": "/timecard-pub/static/js/main.467ec330.js.map"
+    "main.807675e1.js.map": "/timecard-pub/static/js/main.807675e1.js.map"
   },
   "entrypoints": [
     "static/css/main.cb575408.css",
-    "static/js/main.467ec330.js"
+    "static/js/main.807675e1.js"
   ]
 }
